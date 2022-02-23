@@ -1,2 +1,2 @@
 # via-ste-esw1
-Embeded  Software Engineering at VIA University College 2022
+Embeded   Software Engineering at VIA University College 2022
